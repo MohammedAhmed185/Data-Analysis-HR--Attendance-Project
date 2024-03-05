@@ -6,5 +6,6 @@ Tools Used:
   - EXCEL
   <br>
   - Power BI Desktop
+  <br>
 
 Note: Certainly! To explore the interactive dashboard, please download Power BI on your local device and open the .pbix file using the Power BI application. This will allow you to interact with the visualizations and gain deeper insights into the HR attendance data. 📊💼.
